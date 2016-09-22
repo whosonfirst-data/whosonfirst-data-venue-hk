@@ -1,0 +1,68 @@
+{
+  "id": 1108702993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.150956,22.2806,114.150956,22.2806",
+    "geom:latitude":22.2806,
+    "geom:longitude":114.150956,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Palatial Crest 3 Seymour Road",
+    "sg:city":"Mid Levels",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"HK",
+    "sg:tags":[
+        "china",
+        "hong-kong"
+    ],
+    "sg:website":"http://www.misohoni.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85908029,
+        85671791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O9WPSGGUMzAInPgWn9KPq_22.280600_114.150956@1308163237"
+    },
+    "wof:country":"HK",
+    "wof:created":1474570896,
+    "wof:geomhash":"924b329e4083a55de69d2d856dbabdda",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85908029,
+            "region_id":85671791,
+            "venue_id":1108702993
+        }
+    ],
+    "wof:id":1108702993,
+    "wof:lastmodified":1474570896,
+    "wof:name":"Misohoni",
+    "wof:parent_id":85908029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "china",
+        "hong-kong"
+    ]
+},
+  "bbox": [
+    114.150956,
+    22.2806,
+    114.150956,
+    22.2806
+],
+  "geometry": {"coordinates":[114.15095599999999,22.2806],"type":"Point"}
+}
